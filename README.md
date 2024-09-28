@@ -35,5 +35,4 @@ This project consist of 3 parts, which are:
 - You also can Google the syntax, and read the explanation from OpenCV Documentation.
 
 ## Credit to:
-#### Anirban from TheCodacus. Link: http://thecodacus.com/
-#### All rights reserved to the respective owner
+### Onkar Komatwar - onkarkomatwar11@gmail.com
